@@ -12,7 +12,7 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'efficientnet'
+NAME = 'efficientnet2'
 DESCRIPTION = 'EfficientNet model re-implementation. Keras.'
 URL = 'https://github.com/qubvel/efficientnet'
 EMAIL = 'qubvel@gmail.com'
