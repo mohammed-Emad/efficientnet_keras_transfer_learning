@@ -1,1 +1,1 @@
-from .efficientnet import *
+from .efficientnet2 import *
